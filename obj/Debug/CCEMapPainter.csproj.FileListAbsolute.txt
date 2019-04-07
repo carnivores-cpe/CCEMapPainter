@@ -1,0 +1,9 @@
+C:\source\CCEMapPainter\CCEMapPainter\bin\Debug\CCEMapPainter.exe
+C:\source\CCEMapPainter\CCEMapPainter\bin\Debug\CCEMapPainter.pdb
+C:\source\CCEMapPainter\CCEMapPainter\obj\Debug\CCEMapPainter.csprojResolveAssemblyReference.cache
+C:\source\CCEMapPainter\CCEMapPainter\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\source\CCEMapPainter\CCEMapPainter\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\source\CCEMapPainter\CCEMapPainter\obj\Debug\CCEMapPainter.csproj.GenerateResource.cache
+C:\source\CCEMapPainter\CCEMapPainter\obj\Debug\CCEMapPainter.csproj.CoreCompileInputs.cache
+C:\source\CCEMapPainter\CCEMapPainter\obj\Debug\CCEMapPainter.exe
+C:\source\CCEMapPainter\CCEMapPainter\obj\Debug\CCEMapPainter.pdb
